@@ -47,7 +47,8 @@ h1,h2,h3,h4,h5,h6{
     background-size: cover;
 }
 .header{
-	background:#000;
+	background:#fff;
+	
 }
 .header1{
 	height:92px;
@@ -104,6 +105,7 @@ h1,h2,h3,h4,h5,h6{
   padding: 0 10px;
   margin: 0 20px;
   text-shadow: none;
+
   position: relative;
 }
 .link-effect-4 a::before {
@@ -178,6 +180,7 @@ h1,h2,h3,h4,h5,h6{
 .navbar-top {
     float: left;
 	width:70%;
+	
 }
 .navbar-default {
     border: none;
@@ -190,7 +193,7 @@ div#bs-example-navbar-collapse-1 {
 }
 ul.nav.navbar-nav li a {
     font-size: 1.1em;
-    color: #FFFFFF;
+    color: #000;
     margin: 0 15px;
     padding: 0px 0;
 }
